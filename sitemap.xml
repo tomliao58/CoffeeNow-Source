@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+
+    <loc>http://www.coffeenow.com.tw/</loc>
+
+    <video:video>
+      <video:content_loc>
+        https://player.vimeo.com/video/133016610?portrait=0&amp;color=f0f0f0
+      </video:content_loc>
+      <video:player_loc allow_embed="yes" autoplay="ap=1">
+        https://player.vimeo.com/video/133016610?portrait=0&amp;color=f0f0f0
+      </video:player_loc>
+      <video:title>咖啡佬：尼加拉瓜咖啡產地介紹</video:title>
+      <video:description>
+        咖啡佬：尼加拉瓜咖啡產地介紹
+      </video:description>
+    </video:video>
+
+  </url>
+  <url>
+    <loc>http://www.coffeenow.com.tw/about.html</loc>
+  </url>
+  <url>
+    <loc>http://www.coffeenow.com.tw/coffee.html</loc>
+  </url>
+  <url>
+    <loc>http://www.coffeenow.com.tw/producers.html</loc>
+  </url>
+  <url>
+    <loc>http://www.coffeenow.com.tw/shopping.html</loc>
+  </url>
+  <url>
+    <loc>http://www.coffeenow.com.tw/contact.html</loc>
+  </url>
+</urlset>
